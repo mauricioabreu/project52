@@ -4,4 +4,4 @@
 
 ## Projects
 
-1) Hangman game written in golang - https://github.com/mauricioabreu/go-hangman
+1) (08/07) Hangman game written in golang - https://github.com/mauricioabreu/go-hangman
